@@ -20,9 +20,10 @@ github를 통해 다양한 코드들을 접해보고 배워보고 싶습니다.
 
 💻 사용 언어/툴
 Python, C++, Git, GitHub
-[![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)](https://img.shields.io/badge/%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FPython-3766AB%3Fstyle%3Dflat-square%26logo%3DPython%26logoColor%3Dwhite%22%2F%3E
+[(https://img.shields.io/badge/%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FPython-3766AB%3Fstyle%3Dflat-square%26logo%3DPython%26logoColor%3Dwhite%22%2F%3E
 )
-
+](https://img.shields.io/badge/%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FPython-3766AB%3Fstyle%3Dflat-square%26logo%3DPython%26logoColor%3Dwhite%22%2F%3E
+)
 
 📘 현재 배우는 중
 오픈소스, Git
