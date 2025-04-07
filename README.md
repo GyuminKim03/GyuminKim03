@@ -21,7 +21,7 @@ github를 통해 다양한 코드들을 접해보고 배워보고 싶습니다.
 💻 사용 언어/툴
 Python, C++, Git, GitHub
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/cplusplus-#00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 📘 현재 배우는 중
 오픈소스, Git
