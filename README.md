@@ -15,13 +15,16 @@ github를 통해 다양한 코드들을 접해보고 배워보고 싶습니다.
 - 오픈소스 프로젝트 구조 및 개발과정 이해
 - 오픈소스의 이용과 버전관리 방법
 - 실전 개발에 필요한 코드 스타일, 과정, 필요능력
-- Python 및 C 언어 기반의 간단한 툴/라이브러리 개발
+- Python 및 C++ 언어 기반의 간단한 툴 개발
 💡 관심 분야: 오픈소스 프로젝트 기여, 협업 개발, 게임 프로그래밍
 
 💻 사용 언어/툴
 Python, C++, Git, GitHub
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/cplusplus-#00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+ <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+ <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 📘 현재 배우는 중
 오픈소스, Git
