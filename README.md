@@ -6,6 +6,7 @@ github를 통해 다양한 코드들을 접해보고 배워보고 싶습니다.
 하지만 협업, 공유, 그리고 지속적인 학습을 통해 성장하고자 합니다.
 
 ![GyuminKim03 GitHub stats](https://github-readme-stats.vercel.app/api?username=GyuminKim03&show_icons=true&theme=tokyonight)
+ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhak7339)](https://solved.ac/rhak7339/)
 
 
