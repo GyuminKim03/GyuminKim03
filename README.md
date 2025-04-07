@@ -5,6 +5,8 @@ github를 통해 다양한 코드들을 접해보고 배워보고 싶습니다.
 아직 배우고 있는 중이라 많이 모자랄 수 있습니다.
 하지만 협업, 공유, 그리고 지속적인 학습을 통해 성장하고자 합니다.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyuminKim03)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🔍 제 소개를 간단히 하자면...
 🎓 영남대학교에서 공부 중이며, 프로그래밍에 대한 이론과 실습을 배우고 있습니다.
 - 🛠️ 최근에는 Github를 통한 **오픈소스 프로젝트 분석**에 관심을 갖고 학습 중입니다.
